@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://nav.pokeai.cn/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "破壳Ai 导航站"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
