@@ -1,6 +1,6 @@
 baseURL = "http://nav.pokeai.cn/"
 languageCode = "zh-CN"
-title = "破壳Ai 导航站"
+title = "破壳Ai 信息站"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true

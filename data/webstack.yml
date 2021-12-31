@@ -21,6 +21,12 @@
           url: https://www.yangzhiping.com/
           description: 收集灵感,保存有用的素材
 
+        # 以下为技术大佬
+        - title: DIYgod
+          url: https://diygod.me/
+          description: 收集灵感,保存有用的素材
+      
+
     - term: 志趣相投
       links:      
         - title: Hael's Blog-英文博客
@@ -78,13 +84,18 @@
           url: https://zxuqian.cn/
           description: 职业'专题可以看看
 
+
+
+
 - taxonomy: 技术领域
   icon: linecons-globe
   list:
     - term: 技术
-      links:      
+      links:  
+        - title: 湾区日报
+          url: https://wanqu.co/issues/
+          description: 每天5篇高质量文章    
         - title: 阮一峰科技爱好者周刊
-          # logo: assets/images/logos/uicn.png
           url: https://github.com/ruanyf/weekly/
           description: 图形交互与界面设计交流、作品展示、学习平台。
         - title: v2ex
@@ -118,6 +129,17 @@
           # logo: assets/images/logos/huaban.png
           url: https://www.freebuf.com/
           description: 感受英文博客魅力，提醒自己要搞定英文
+
+
+
+- taxonomy: 学术
+  icon: linecons-notes
+  links: 
+    - title: 
+      url: 
+      description:
+
+
 
 - taxonomy: 信息聚合
   icon: linecons-inbox
