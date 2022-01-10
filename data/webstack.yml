@@ -99,7 +99,7 @@
 
 
 - taxonomy: 技术动态
-  icon: linecons-globe
+  icon: linecons-desktop
   list:
     - term: 技术
       links:  
@@ -157,11 +157,11 @@
 
 
 - taxonomy: 学术
-  icon: icon-graduation-cap
-  links: 
+  icon: linecons-graduation-cap
+  links:  
     - title: 
       url: 
-      description:
+      description: 
 
 
 
@@ -210,7 +210,7 @@
 #       description: 我的GitHub
 
 - taxonomy: 产业信息
-  icon: linecons-diamond
+  icon: linecons-sound
   links:  
     - title: 产业信息网
       # logo: assets/images/logos/zcool.png
