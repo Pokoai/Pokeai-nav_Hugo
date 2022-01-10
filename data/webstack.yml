@@ -7,32 +7,36 @@
         - title: 酷壳
           # logo: assets/images/logos/uicn.png
           url: https://coolshell.cn/
-          description: 图形交互与界面设计交流、作品展示、学习平台。
+          description: 
         - title: 阮一峰
           # logo: assets/images/logos/zcool.png
           url: http://www.ruanyifeng.com/
-          description: 中国人气设计师互动平台
+          description: 
         - title: 王垠
           # logo: assets/images/logos/pinterest.png
           url: https://www.yinwang.org/
-          description: 全球美图收藏采集站
+          description: 
         - title: 阳志平
           # logo: assets/images/logos/huaban.png
           url: https://www.yangzhiping.com/
-          description: 收集灵感,保存有用的素材
+          description: 
+        - title: 编程随想的博客
+          # logo: assets/images/logos/huaban.png
+          url: https://program-think.blogspot.com/
+          description: 
 
         # 以下为技术大佬
-        - title: DIYgod
-          url: https://diygod.me/
-          description: 收集灵感,保存有用的素材
+        # - title: DIYgod
+        #   url: https://diygod.me/
+        #   description: 收集灵感,保存有用的素材
       
 
-    - term: 志趣相投
-      links:      
-        - title: Hael's Blog-英文博客
-          # logo: assets/images/logos/huaban.png
-          url: https://haelchan.me/
-          description: 感受英文博客魅力，提醒自己要搞定英文
+    # - term: 志趣相投
+    #   links:      
+    #     - title: Hael's Blog-英文博客
+    #       # logo: assets/images/logos/huaban.png
+    #       url: https://haelchan.me/
+    #       description: 感受英文博客魅力，提醒自己要搞定英文
 
     - term: 有趣的灵魂
       links:
@@ -40,6 +44,9 @@
           # logo: assets/images/logos/uicn.png
           url: https://fangyuanxiaozhan.com/
           description: 杂谈性质的文章
+        - title: DIYgod
+          url: https://diygod.me/
+          description: 
         - title: 翁天信
           # logo: assets/images/logos/zcool.png
           url: https://www.dandyweng.com/
@@ -83,57 +90,74 @@
           # logo: assets/images/logos/pinterest.png
           url: https://zxuqian.cn/
           description: 职业'专题可以看看
+        - title: Hael's Blog-英文博客
+          # logo: assets/images/logos/huaban.png
+          url: https://haelchan.me/
+          description: 感受英文博客魅力，提醒自己要搞定英文
 
 
 
 
-- taxonomy: 技术领域
+- taxonomy: 技术动态
   icon: linecons-globe
   list:
     - term: 技术
       links:  
         - title: 湾区日报
           url: https://wanqu.co/issues/
-          description: 每天5篇高质量文章    
+          description: 每天5篇高质量文章  
         - title: 阮一峰科技爱好者周刊
           url: https://github.com/ruanyf/weekly/
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-        - title: v2ex
-          # logo: assets/images/logos/huaban.png
-          url: https://www.v2ex.com/
-          description: 收集灵感,保存有用的素材
-        - title: Info Q
-          # logo: assets/images/logos/zcool.png
-          url: https://www.infoq.cn/
-          description: 中国人气设计师互动平台
-        - title: thoughtworks-最前沿技术
-          # logo: assets/images/logos/pinterest.png
-          url: https://www.thoughtworks.com/
-          description: 全球美图收藏采集站
+          description: 
+        # - title: v2ex
+        #   # logo: assets/images/logos/huaban.png
+        #   url: https://www.v2ex.com/
+        #   description: 收集灵感,保存有用的素材
+        # - title: Info Q
+        #   # logo: assets/images/logos/zcool.png
+        #   url: https://www.infoq.cn/
+        #   description: 中国人气设计师互动平台
+        # - title: thoughtworks-最前沿技术
+        #   # logo: assets/images/logos/pinterest.png
+        #   url: https://www.thoughtworks.com/
+        #   description: 全球美图收藏采集站
         - title: Hacker News
           # logo: assets/images/logos/huaban.png
           url: https://news.ycombinator.com/
-          description: 收集灵感,保存有用的素材
+          description: 
+        - title: 环球科学
+          # logo: assets/images/logos/huaban.png
+          url: https://huanqiukexue.com/
+          description: 
+        - title: GitHub 上有趣、入门级的开源项目
+          url: https://hellogithub.com/
+          description: 
         - title: Github top stars
           # logo: assets/images/logos/huaban.png
           url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-          description: 收集灵感,保存有用的素材
+          description: 
         - title: Github trending
           # logo: assets/images/logos/huaban.png
           url: https://github.com/trending/
-          description: 收集灵感,保存有用的素材
-
-    - term: 网络安全
-      links:      
-        - title: freebuf
+          description: 
+        - title: 极客分享 | 每周精选 
           # logo: assets/images/logos/huaban.png
-          url: https://www.freebuf.com/
-          description: 感受英文博客魅力，提醒自己要搞定英文
+          url: https://hackershare.dev/weekly_selections
+          description: 
+
+          
+
+    # - term: 网络安全
+    #   links:      
+    #     - title: freebuf
+    #       # logo: assets/images/logos/huaban.png
+    #       url: https://www.freebuf.com/
+    #       description: 感受英文博客魅力，提醒自己要搞定英文
 
 
 
 - taxonomy: 学术
-  icon: linecons-notes
+  icon: icon-graduation-cap
   links: 
     - title: 
       url: 
@@ -141,74 +165,74 @@
 
 
 
-- taxonomy: 信息聚合
-  icon: linecons-inbox
-  links: 
-    - title: 今日热榜
-      # logo: assets/images/logos/dribbble.png
-      url: https://tophub.today/
-      description: 我的站点
-    - title: Panda
-      url: http://usepanda.com/
-      # logo: assets/images/logos/usepanda.png
-      description: 一个超棒的自定义信息聚合 (rss feed) 平台
+# - taxonomy: 信息聚合
+#   icon: linecons-inbox
+#   links: 
+#     - title: 今日热榜
+#       # logo: assets/images/logos/dribbble.png
+#       url: https://tophub.today/
+#       description: 我的站点
+#     - title: Panda
+#       url: http://usepanda.com/
+#       # logo: assets/images/logos/usepanda.png
+#       description: 一个超棒的自定义信息聚合 (rss feed) 平台
 
-- taxonomy: 常用媒体
-  icon: linecons-sound
-  links: 
-    - title: 36kr
-      # logo: assets/images/logos/dribbble.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 雷锋网
-      logo: assets/images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 澎湃新闻
-      # logo: assets/images/logos/behance.png
-      url: https://www.thepaper.cn/
-      description: 一个超棒的自定义信息聚合 (rss feed) 平台
-    - title: FT中文网
-      # logo: assets/images/logos/dribbble.png
-      url: https://ftchinese.com/
-      description: 岁的法国
-    - title: Google财经
-      # logo: assets/images/logos/behance.png
-      url: https://www.google.com/finance/
-      description: 一个超棒的自定义信息聚合 (rss feed) 平台
-    - title: 虎嗅
-      # logo: assets/images/logos/dribbble.png
-      url: https://www.huxiu.com/
-      description: 我的站点
-    - title: 人人都是产品经理
-      # logo: assets/images/logos/behance.png
-      url: http://www.woshipm.com/
-      description: 我的GitHub
+# - taxonomy: 常用媒体
+#   icon: linecons-sound
+#   links: 
+#     - title: 36kr
+#       # logo: assets/images/logos/dribbble.png
+#       url: https://36kr.com/
+#       description: 创业资讯、科技新闻
+#     - title: 雷锋网
+#       logo: assets/images/logos/leiphone.png
+#       url: https://www.leiphone.com/
+#       description: 人工智能和智能硬件领域的互联网科技媒体
+#     - title: 澎湃新闻
+#       # logo: assets/images/logos/behance.png
+#       url: https://www.thepaper.cn/
+#       description: 一个超棒的自定义信息聚合 (rss feed) 平台
+#     - title: FT中文网
+#       # logo: assets/images/logos/dribbble.png
+#       url: https://ftchinese.com/
+#       description: 岁的法国
+#     - title: Google财经
+#       # logo: assets/images/logos/behance.png
+#       url: https://www.google.com/finance/
+#       description: 一个超棒的自定义信息聚合 (rss feed) 平台
+#     - title: 虎嗅
+#       # logo: assets/images/logos/dribbble.png
+#       url: https://www.huxiu.com/
+#       description: 我的站点
+#     - title: 人人都是产品经理
+#       # logo: assets/images/logos/behance.png
+#       url: http://www.woshipm.com/
+#       description: 我的GitHub
 
-- taxonomy: 财经
+- taxonomy: 产业信息
   icon: linecons-diamond
   links:  
     - title: 产业信息网
       # logo: assets/images/logos/zcool.png
       url: https://www.chyxx.com/
-      description: 产业前景投资趋势门户
+      description: 产业前景投资趋势
     - title: QuestMobile
       # logo: assets/images/logos/pinterest.png
-      url: https://www.questmobile.com.cn/
-      description: 中国专业的移动互联网商业智能服务平台
+      url: https://www.questmobile.com.cn/research/report-new/
+      description: 行业研究报告
     - title: Global consulting
       # logo: assets/images/logos/huaban.png
       url: https://www.rolandberger.com/en/
       description: Roland Berger
-    - title: 腾讯网
+    - title: 腾讯科技
       # logo: assets/images/logos/uicn.png
       url: https://new.qq.com/ch/tech/
-      description: 科技
+      description: 
 
-- taxonomy: 其它
-  icon: linecons-attach
-  links: 
-    - title: 少数派
-      # logo: assets/images/logos/dribbble.png
-      url: https://sspai.com/
-      description: 高品质数字消费指南
+# - taxonomy: 其它
+#   icon: linecons-attach
+#   links: 
+#     - title: 少数派
+#       # logo: assets/images/logos/dribbble.png
+#       url: https://sspai.com/
+#       description: 高品质数字消费指南
