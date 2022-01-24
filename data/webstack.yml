@@ -1,12 +1,13 @@
 
 - taxonomy: 学习输入
-  icon: linecons-sound
+  icon: linecons-key
   links:  
     - title: 升级攻略
       url: https://time.geekbang.org/column/article/8216/
       description:
     - title: 学术科研
       url: 
+      logo: assets/images/logos/huaban.png
       description: 见学术导航
     - title: 英语
       url: https://pokeai.cn/docs/thinking/%E8%8B%B1%E8%AF%AD%E8%87%AA%E5%AD%A6%E6%89%8B%E5%86%8C/0%20%E5%89%8D%E8%A8%80/
@@ -14,9 +15,9 @@
      
 
 - taxonomy: 信息输入
-  icon: linecons-sound
+  icon: linecons-key
   links:  
-    - title: 破壳Ai
+    - title: 破壳 Ai
       url: https://pokeai.cn/
       description: 
     - title: 微信读书
@@ -28,15 +29,16 @@
     - title: 大佬博客
       url: 
       description: 见博客导航
+      logo: assets/images/logos/huaban.png
     - title: 有知有行
       url: https://youzhiyouxing.cn/materials/
-      description: 理财
+      description: 非必要
  
 
 - taxonomy: 知识输出
-  icon: linecons-sound
+  icon: linecons-paper-plane
   links:  
-    - title: 破壳Ai知识库
+    - title: 破壳 Ai 知识库
       url: https://pokeai.cn/docs/wiki/
       description: 
     - title: CSDN
