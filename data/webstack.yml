@@ -1,34 +1,72 @@
 
+- taxonomy: 学习输入
+  icon: linecons-sound
+  links:  
+    - title: 升级攻略
+      url: https://time.geekbang.org/column/article/8216/
+      description:
+    - title: 学术科研
+      url: 
+      description: 见学术导航
+    - title: 英语
+      url: https://pokeai.cn/docs/thinking/%E8%8B%B1%E8%AF%AD%E8%87%AA%E5%AD%A6%E6%89%8B%E5%86%8C/0%20%E5%89%8D%E8%A8%80/
+      description: 英语自学手册
+     
+
+- taxonomy: 信息输入
+  icon: linecons-sound
+  links:  
+    - title: 破壳Ai
+      url: https://pokeai.cn/
+      description: 
+    - title: 微信读书
+      url: https://weread.qq.com/
+      description: 
+    - title: RSS
+      url: https://www.inoreader.com/all_articles/
+      description: 
+    - title: 大佬博客
+      url: 
+      description: 见博客导航
+    - title: 有知有行
+      url: https://youzhiyouxing.cn/materials/
+      description: 理财
+ 
+
+- taxonomy: 知识输出
+  icon: linecons-sound
+  links:  
+    - title: 破壳Ai知识库
+      url: https://pokeai.cn/docs/wiki/
+      description: 
+    - title: CSDN
+      url: https://mp.csdn.net/
+      description: 
+    - title: 微信公众号
+      url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN/
+      description: 
+
+
 - taxonomy: 博客
   icon: linecons-star
   list:
     - term: 大佬
       links:      
         - title: 酷壳
-          # logo: assets/images/logos/uicn.png
           url: https://coolshell.cn/
           description: 
         - title: 阮一峰
-          # logo: assets/images/logos/zcool.png
           url: http://www.ruanyifeng.com/
           description: 
         - title: 王垠
-          # logo: assets/images/logos/pinterest.png
           url: https://www.yinwang.org/
           description: 
         - title: 阳志平
-          # logo: assets/images/logos/huaban.png
           url: https://www.yangzhiping.com/
           description: 
         - title: 编程随想的博客
-          # logo: assets/images/logos/huaban.png
           url: https://program-think.blogspot.com/
           description: 
-        - title: 有知有行
-          # logo: assets/images/logos/huaban.png
-          url: https://youzhiyouxing.cn/materials/
-          description: 建立投资知识体系
-
           
 
         # 以下为技术大佬
