@@ -1,55 +1,87 @@
 
-- taxonomy: 学习输入
+- taxonomy: 阅读输入
   icon: linecons-key
   links:  
-    - title: 升级攻略
-      url: https://time.geekbang.org/column/article/8216/
-      description:
-    - title: 学术科研
-      url: 
-      logo: assets/images/logos/huaban.png
-      description: 见学术导航
-    - title: 英语
-      url: https://pokeai.cn/docs/thinking/%E8%8B%B1%E8%AF%AD%E8%87%AA%E5%AD%A6%E6%89%8B%E5%86%8C/0%20%E5%89%8D%E8%A8%80/
-      description: 英语自学手册
-     
-
-- taxonomy: 信息输入
-  icon: linecons-key
-  links:  
-    - title: 破壳 Ai
+    - title: 网站阅读
       url: https://pokeai.cn/
-      description: 
-    - title: 微信读书
-      url: https://weread.qq.com/
-      description: 
-    - title: RSS
+      description: 每日提醒自己
+    
+    - title: 前沿资讯
       url: https://www.inoreader.com/all_articles/
-      description: 
+      description: 每日中午阅读
+    
+    - title: 理财系统化阅读
+      url: https://youzhiyouxing.cn/materials/
+      description: 每日晚上阅读一篇，并记笔记☞网站理财专栏
+    
     - title: 大佬博客
       url: 
-      description: 见博客导航
-      logo: assets/images/logos/huaban.png
-    - title: 有知有行
-      url: https://youzhiyouxing.cn/materials/
-      description: 非必要
- 
-
-- taxonomy: 知识输出
-  icon: linecons-paper-plane
-  links:  
-    - title: 破壳 Ai 知识库
-      url: https://pokeai.cn/docs/wiki/
-      description: 
-    - title: CSDN
-      url: https://mp.csdn.net/
-      description: 
-    - title: 微信公众号
-      url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN/
-      description: 
+      description: 随时阅读
+      logo: 
+    
 
 
-- taxonomy: 博客
+
+- taxonomy: 技术动态
+  icon: linecons-desktop
+  list:
+    - term: 技术
+      links:  
+        - title: 湾区日报
+          url: https://wanqu.co/issues/
+          description: 每天5篇高质量文章  
+        - title: 阮一峰科技爱好者周刊
+          url: https://github.com/ruanyf/weekly/
+          description: 
+        # - title: v2ex
+        #   # logo: assets/images/logos/huaban.png
+        #   url: https://www.v2ex.com/
+        #   description: 收集灵感,保存有用的素材
+        # - title: Info Q
+        #   # logo: assets/images/logos/zcool.png
+        #   url: https://www.infoq.cn/
+        #   description: 中国人气设计师互动平台
+        # - title: thoughtworks-最前沿技术
+        #   # logo: assets/images/logos/pinterest.png
+        #   url: https://www.thoughtworks.com/
+        #   description: 全球美图收藏采集站
+        # - title: Hacker News
+        #   # logo: assets/images/logos/huaban.png
+        #   url: https://news.ycombinator.com/
+        #   description: 
+        - title: 环球科学
+          # logo: assets/images/logos/huaban.png
+          url: https://huanqiukexue.com/
+          description: 
+        - title: GitHub 上有趣、入门级的开源项目
+          url: https://hellogithub.com/
+          description: 
+        - title: Github top stars
+          # logo: assets/images/logos/huaban.png
+          url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+          description: 
+        - title: Github trending
+          # logo: assets/images/logos/huaban.png
+          url: https://github.com/trending/
+          description: 
+        - title: 极客分享 | 每周精选 
+          # logo: assets/images/logos/huaban.png
+          url: https://hackershare.dev/weekly_selections
+          description: 
+
+          
+
+    # - term: 网络安全
+    #   links:      
+    #     - title: freebuf
+    #       # logo: assets/images/logos/huaban.png
+    #       url: https://www.freebuf.com/
+    #       description: 感受英文博客魅力，提醒自己要搞定英文
+
+
+
+
+- taxonomy: 博客汇集
   icon: linecons-star
   list:
     - term: 大佬
@@ -144,70 +176,15 @@
 
 
 
-- taxonomy: 技术动态
-  icon: linecons-desktop
-  list:
-    - term: 技术
-      links:  
-        - title: 湾区日报
-          url: https://wanqu.co/issues/
-          description: 每天5篇高质量文章  
-        - title: 阮一峰科技爱好者周刊
-          url: https://github.com/ruanyf/weekly/
-          description: 
-        # - title: v2ex
-        #   # logo: assets/images/logos/huaban.png
-        #   url: https://www.v2ex.com/
-        #   description: 收集灵感,保存有用的素材
-        # - title: Info Q
-        #   # logo: assets/images/logos/zcool.png
-        #   url: https://www.infoq.cn/
-        #   description: 中国人气设计师互动平台
-        # - title: thoughtworks-最前沿技术
-        #   # logo: assets/images/logos/pinterest.png
-        #   url: https://www.thoughtworks.com/
-        #   description: 全球美图收藏采集站
-        - title: Hacker News
-          # logo: assets/images/logos/huaban.png
-          url: https://news.ycombinator.com/
-          description: 
-        - title: 环球科学
-          # logo: assets/images/logos/huaban.png
-          url: https://huanqiukexue.com/
-          description: 
-        - title: GitHub 上有趣、入门级的开源项目
-          url: https://hellogithub.com/
-          description: 
-        - title: Github top stars
-          # logo: assets/images/logos/huaban.png
-          url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-          description: 
-        - title: Github trending
-          # logo: assets/images/logos/huaban.png
-          url: https://github.com/trending/
-          description: 
-        - title: 极客分享 | 每周精选 
-          # logo: assets/images/logos/huaban.png
-          url: https://hackershare.dev/weekly_selections
-          description: 
-
-          
-
-    # - term: 网络安全
-    #   links:      
-    #     - title: freebuf
-    #       # logo: assets/images/logos/huaban.png
-    #       url: https://www.freebuf.com/
-    #       description: 感受英文博客魅力，提醒自己要搞定英文
 
 
 
-- taxonomy: 学术
-  icon: linecons-graduation-cap
-  links:  
-    - title: 
-      url: 
-      description: 
+# - taxonomy: 学术研究
+#   icon: linecons-graduation-cap
+#   links:  
+#     - title: 
+#       url: 
+#       description: 
 
 
 
@@ -255,25 +232,7 @@
 #       url: http://www.woshipm.com/
 #       description: 我的GitHub
 
-- taxonomy: 产业信息
-  icon: linecons-sound
-  links:  
-    - title: 产业信息网
-      # logo: assets/images/logos/zcool.png
-      url: https://www.chyxx.com/
-      description: 产业前景投资趋势
-    - title: QuestMobile
-      # logo: assets/images/logos/pinterest.png
-      url: https://www.questmobile.com.cn/research/report-new/
-      description: 行业研究报告
-    - title: Global consulting
-      # logo: assets/images/logos/huaban.png
-      url: https://www.rolandberger.com/en/
-      description: Roland Berger
-    - title: 腾讯科技
-      # logo: assets/images/logos/uicn.png
-      url: https://new.qq.com/ch/tech/
-      description: 
+
 
 # - taxonomy: 其它
 #   icon: linecons-attach
