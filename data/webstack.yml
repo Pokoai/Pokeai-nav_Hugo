@@ -2,19 +2,19 @@
 - taxonomy: 阅读输入
   icon: linecons-key
   links:  
-    - title: 网站阅读
+    - title: 网站阅读-早
       url: https://pokeai.cn/
       description: 每日提醒自己
     
-    - title: 前沿资讯
+    - title: 前沿资讯-中
       url: https://www.inoreader.com/all_articles/
       description: 每日中午阅读
     
-    - title: 理财系统化阅读
+    - title: 理财系统化阅读-晚
       url: https://youzhiyouxing.cn/materials/
       description: 每日晚上阅读一篇，并记笔记☞网站理财专栏
     
-    - title: 大佬博客
+    - title: 大佬博客-随
       url: 
       description: 随时阅读
       logo: 
