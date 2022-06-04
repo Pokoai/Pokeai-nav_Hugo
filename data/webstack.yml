@@ -25,7 +25,7 @@
 - taxonomy: 技术动态
   icon: linecons-desktop
   list:
-    - term: 技术
+    - term: 技术动态
       links:  
         - title: 湾区日报
           url: https://wanqu.co/issues/
@@ -84,7 +84,7 @@
 - taxonomy: 博客汇集
   icon: linecons-star
   list:
-    - term: 大佬
+    - term: 大佬博客
       links:      
         - title: 酷壳
           url: https://coolshell.cn/
@@ -101,38 +101,24 @@
         - title: 编程随想的博客
           url: https://program-think.blogspot.com/
           description: 
-          
 
-        # 以下为技术大佬
-        # - title: DIYgod
-        #   url: https://diygod.me/
-        #   description: 收集灵感,保存有用的素材
-      
 
-    # - term: 志趣相投
-    #   links:      
-    #     - title: Hael's Blog-英文博客
-    #       # logo: assets/images/logos/huaban.png
-    #       url: https://haelchan.me/
-    #       description: 感受英文博客魅力，提醒自己要搞定英文
 
-    - term: 有趣的灵魂
+    - term: 有趣
       links:
-        - title: 方圆小站
-          # logo: assets/images/logos/uicn.png
-          url: https://fangyuanxiaozhan.com/
-          description: 杂谈性质的文章
         - title: DIYgod
           url: https://diygod.me/
-          description: 
-        - title: 翁天信
-          # logo: assets/images/logos/zcool.png
-          url: https://www.dandyweng.com/
-          description: 一个自学者，爱好旅行、摄影、设计和编程
+          description:
         - title: Helloxjn
-          # logo: assets/images/logos/pinterest.png
           url: https://www.helloxjn.com/
           description: 网站全部自己开发，官方文档的收集很简洁
+
+        - title: 方圆小站
+          url: https://fangyuanxiaozhan.com/
+          description: 杂谈性质的文章
+        - title: 翁天信
+          url: https://www.dandyweng.com/
+          description: 一个自学者，爱好旅行、摄影、设计和编程
         - title: 罗磊
           # logo: assets/images/logos/huaban.png
           url: https://luolei.org/
@@ -142,10 +128,10 @@
           url: https://www.yunyoujun.cn/about/#/
           description: 看看
 
+
     - term: 看完即删
       links:
         - title: Power`s Wiki
-          # logo: assets/images/logos/uicn.png
           url: https://wiki-power.com/
           description: 主要是看高效工作指南板块
         - title: 愧怍
