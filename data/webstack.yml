@@ -49,8 +49,8 @@
       description: 重在思考
 
     - title: GitHub 上有趣、入门级的开源项目
-          url: https://hellogithub.com/
-          description: 
+      url: https://hellogithub.com/
+      description: 
     - title: Github top stars
       # logo: assets/images/logos/huaban.png
       url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
