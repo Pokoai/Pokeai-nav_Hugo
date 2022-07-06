@@ -1,90 +1,69 @@
 
-- taxonomy: 阅读输入
+- taxonomy: Click Day
   icon: linecons-key
   links:  
     - title: 网站笔记回顾 | 早上
       url: https://pokeai.cn/
       description: 重在思考
-    
-    - title: 前沿资讯 | 中午
-      url: https://www.inoreader.com/all_articles/
-      description: 浏览标题，筛选内容供后续阅读
-    
-    - title: 投资系统学习 | 晚上
-      url: https://youzhiyouxing.cn/materials/
-      description: 仅阅读一篇，思考输出☞网站理财专栏
-    
-    - title: 大佬博客 | 周末
-      url: https://coolshell.cn/
-      description: 暂停书籍阅读，进行博客阅读
-      logo: 
-    
 
-
-
-- taxonomy: 技术动态
-  icon: linecons-desktop
-  list:
-    - term: 技术动态
-      links:  
-        - title: 湾区日报
-          url: https://wanqu.co/issues/
-          description: 每天5篇高质量文章  
-        - title: 阮一峰科技爱好者周刊
-          url: https://github.com/ruanyf/weekly/
-          description: 
-        # - title: v2ex
-        #   # logo: assets/images/logos/huaban.png
-        #   url: https://www.v2ex.com/
-        #   description: 收集灵感,保存有用的素材
-        # - title: Info Q
-        #   # logo: assets/images/logos/zcool.png
-        #   url: https://www.infoq.cn/
-        #   description: 中国人气设计师互动平台
-        # - title: thoughtworks-最前沿技术
-        #   # logo: assets/images/logos/pinterest.png
-        #   url: https://www.thoughtworks.com/
-        #   description: 全球美图收藏采集站
-        # - title: Hacker News
-        #   # logo: assets/images/logos/huaban.png
-        #   url: https://news.ycombinator.com/
-        #   description: 
-        - title: 环球科学
-          # logo: assets/images/logos/huaban.png
-          url: https://huanqiukexue.com/
-          description: 
-        - title: GitHub 上有趣、入门级的开源项目
+    - title: GitHub 上有趣、入门级的开源项目
           url: https://hellogithub.com/
           description: 
-        - title: Github top stars
-          # logo: assets/images/logos/huaban.png
-          url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-          description: 
-        - title: Github trending
-          # logo: assets/images/logos/huaban.png
-          url: https://github.com/trending/
-          description: 
-        - title: 极客分享 | 每周精选 
-          # logo: assets/images/logos/huaban.png
-          url: https://hackershare.dev/weekly_selections
-          description: 
+    - title: Github top stars
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+      description: 
+    - title: Github trending
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/trending/
+      description: 
+    - title: 极客分享 | 每周精选 
+      # logo: assets/images/logos/huaban.png
+      url: https://hackershare.dev/weekly_selections
+      description: 
+    
+    
+    # - title: 前沿资讯 | 周末
+    #   url: https://www.inoreader.com/all_articles/
+    #   description: 浏览标题，筛选内容供后续阅读
+    
+    # - title: 投资系统学习 | 周末
+    #   url: https://youzhiyouxing.cn/materials/
+    #   description: 仅阅读一篇，思考输出☞网站理财专栏
+    
+     
+  
 
-          
+# - taxonomy: 技术动态
+#   icon: linecons-desktop
+#   list:
+#     - term: 技术动态
+#       links:  
+        
+#         - title: GitHub 上有趣、入门级的开源项目
+#           url: https://hellogithub.com/
+#           description: 
+#         - title: Github top stars
+#           # logo: assets/images/logos/huaban.png
+#           url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+#           description: 
+#         - title: Github trending
+#           # logo: assets/images/logos/huaban.png
+#           url: https://github.com/trending/
+#           description: 
+#         - title: 极客分享 | 每周精选 
+#           # logo: assets/images/logos/huaban.png
+#           url: https://hackershare.dev/weekly_selections
+#           description: 
+    
 
-    # - term: 网络安全
-    #   links:      
-    #     - title: freebuf
-    #       # logo: assets/images/logos/huaban.png
-    #       url: https://www.freebuf.com/
-    #       description: 感受英文博客魅力，提醒自己要搞定英文
 
 
 
-
-- taxonomy: 博客汇集
+- taxonomy: 博客精华
   icon: linecons-star
   list:
-    - term: 大佬博客
+    - term: 前辈
       links:      
         - title: 酷壳
           url: https://coolshell.cn/
@@ -98,42 +77,53 @@
         - title: 阳志平
           url: https://www.yangzhiping.com/
           description: 
-        - title: 编程随想的博客
-          url: https://program-think.blogspot.com/
-          description: 
+        
+
+
+
+    - term: 极客
+      links:
+
+        - title: 三帛的世界
+          url: https://blog.vvzero.com/
+          description: 物联网全栈系统工程师
+        - title: Power`s Wiki
+          url: https://wiki-power.com/
+          description: 主要是看高效工作指南板块
+        - title: Helloxjn
+          url: https://www.helloxjn.com/
+          description: 网站全部自己开发，官方文档的收集很简洁
+
+
 
 
 
     - term: 有趣
       links:
-        - title: DIYgod
-          url: https://diygod.me/
-          description:
-        - title: Helloxjn
-          url: https://www.helloxjn.com/
-          description: 网站全部自己开发，官方文档的收集很简洁
+        # - title: DIYgod
+        #   url: https://diygod.me/
+        #   description:
+        
+        # - title: 翁天信
+        #   url: https://www.dandyweng.com/
+        #   description: 一个自学者，爱好旅行、摄影、设计和编程
+        # - title: 罗磊
+        #   # logo: assets/images/logos/huaban.png
+        #   url: https://luolei.org/
+        #   description: 生活，我可以向他学习
+        # - title: 云游君的小站
+        #   # logo: assets/images/logos/pinterest.png
+        #   url: https://www.yunyoujun.cn/about/#/
+        #   description: 看看
 
-        - title: 方圆小站
-          url: https://fangyuanxiaozhan.com/
-          description: 杂谈性质的文章
-        - title: 翁天信
-          url: https://www.dandyweng.com/
-          description: 一个自学者，爱好旅行、摄影、设计和编程
-        - title: 罗磊
-          # logo: assets/images/logos/huaban.png
-          url: https://luolei.org/
-          description: 生活，我可以向他学习
-        - title: 云游君的小站
-          # logo: assets/images/logos/pinterest.png
-          url: https://www.yunyoujun.cn/about/#/
-          description: 看看
+        - title: 编程随想的博客
+          url: https://program-think.blogspot.com/
+          description: 
 
 
     - term: 看完即删
       links:
-        - title: Power`s Wiki
-          url: https://wiki-power.com/
-          description: 主要是看高效工作指南板块
+        
         - title: 愧怍
           # logo: assets/images/logos/zcool.png
           url: https://kuizuo.cn/
@@ -158,6 +148,9 @@
           # logo: assets/images/logos/huaban.png
           url: https://haelchan.me/
           description: 感受英文博客魅力，提醒自己要搞定英文
+        - title: 方圆小站
+          url: https://fangyuanxiaozhan.com/blog/
+          description: 杂谈性质的文章
 
 
 
