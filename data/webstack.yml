@@ -1,3 +1,87 @@
+- taxonomy: Click Day
+  icon: linecons-key
+  links:  
+    - title: 网站笔记回顾 | 早上
+      url: https://pokeai.cn/
+      description: 重在思考
+
+    - title: GitHub 上有趣、入门级的开源项目
+      url: https://hellogithub.com/
+      description: 
+    - title: Github top stars
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+      description: 
+    - title: Github trending
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/trending/
+      description: 
+    - title: 极客分享 | 每周精选 
+      # logo: assets/images/logos/huaban.png
+      url: https://hackershare.dev/weekly_selections
+      description: 
+    
+    
+    # - title: 前沿资讯 | 周末
+    #   url: https://www.inoreader.com/all_articles/
+    #   description: 浏览标题，筛选内容供后续阅读
+    
+    # - title: 投资系统学习 | 周末
+    #   url: https://youzhiyouxing.cn/materials/
+    #   description: 仅阅读一篇，思考输出☞网站理财专栏
+
+
+
+
+
+- taxonomy: 学术研究
+  icon: linecons-graduation-cap
+  list:
+    - term: 检索工具
+      links:  
+        - title: WOS
+          url: https://www.webofscience.com/wos/alldb/basic-search
+          description:  
+        - title: Scopus
+          url: https://www.scopus.com/search/form.uri?display=basic#basic
+          description:
+        - title: EI
+          url: https://www.engineeringvillage.com/search/quick.url
+          description:  
+        - title: 中国知网
+          url: https://www.cnki.net/
+          description: 
+        - title: 中国知网海外版
+          url: http://gb.oversea.cnki.net/kns55/default.aspx
+          description:  
+        - title: CNKI翻译助手
+          url: https://dict.cnki.net/index
+          description: 
+        - title: 万方
+          url: https://s.wanfangdata.com.cn/paper?q=%E8%B4%9D%E5%8F%B6%E6%96%AF
+          description:  
+
+
+    - term: 辅助工具
+      links:  
+        - title: Connectedpapers
+          url: https://www.connectedpapers.com/
+          description: 用来进行文献或者某个领域调研的科研神器
+        - title: Open Access Library
+          url: https://www.oalib.com/
+          description: 相关文章、期刊推荐
+        - title: AMiner
+          url: https://www.aminer.cn/
+          description: AI赋能科技情报挖掘
+        - title: 文献鸟Stork
+          url: https://www.storkapp.me/?ref=130097
+          description: 您忠实的科研助手
+        
+
+
+
+
+
 - taxonomy: 在线学习
   icon: linecons-graduation-cap
   links: 
@@ -35,56 +119,8 @@
       url: https://www.latexstudio.net/articles/
       description:
 
-
-
-
-
-
-
-- taxonomy: Click Day
-  icon: linecons-key
-  links:  
-    - title: 网站笔记回顾 | 早上
-      url: https://pokeai.cn/
-      description: 重在思考
-
-    - title: GitHub 上有趣、入门级的开源项目
-      url: https://hellogithub.com/
-      description: 
-    - title: Github top stars
-      # logo: assets/images/logos/huaban.png
-      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-      description: 
-    - title: Github trending
-      # logo: assets/images/logos/huaban.png
-      url: https://github.com/trending/
-      description: 
-    - title: 极客分享 | 每周精选 
-      # logo: assets/images/logos/huaban.png
-      url: https://hackershare.dev/weekly_selections
-      description: 
-    
-    
-    # - title: 前沿资讯 | 周末
-    #   url: https://www.inoreader.com/all_articles/
-    #   description: 浏览标题，筛选内容供后续阅读
-    
-    # - title: 投资系统学习 | 周末
-    #   url: https://youzhiyouxing.cn/materials/
-    #   description: 仅阅读一篇，思考输出☞网站理财专栏
     
      
-
-
-
-- taxonomy: 学术研究
-  icon: linecons-graduation-cap
-  links:  
-    - title: 
-      url: 
-      description: 
-    
-
 
 
 - taxonomy: 博客精华
@@ -182,7 +218,98 @@
 
 
 
-- taxonomy: 优质博客
+
+- taxonomy: 论坛
+  icon: linecons-doc
+  list:
+    - term: 程序员社区
+      links: 
+        - title: Leetcode
+          url: https://leetcode.com/
+          description: 全球极客挚爱的技术成长平台
+        - title: Leetcode题库
+          url: https://leetcode-cn.com/problemset/all/
+          description: 
+        - title: 牛客网
+          url: https://www.nowcoder.com/
+          description: 找工作神器|笔试题库|面试经验|实习招聘内推
+        - title: 在线工具 —— OSCHINA.NET社区
+          url: https://tool.oschina.net/
+          description: 
+        - title: 掘金
+          url: https://juejin.cn/
+          description: 代码不止，掘金不停
+        - title: OSCHINA
+          url: https://www.oschina.net/
+          description: 中文开源技术交流社区
+        - title: PUDN
+          url: https://www.pudn.com/
+          description: 363万+编程源码资料
+        - title: CodeProject
+          url: https://www.codeproject.com/
+          description: For those who code
+        - title: 51CTO博客2.0
+          url: https://blog.51cto.com/
+          description: 原创IT技术文章分享及交流平台
+        - title: 博客园
+          url: https://www.cnblogs.com/
+          description: 开发者的网上家园
+        - title: 程序员客栈
+          url: https://www.proginn.com/
+          description: 领先的程序员自由远程工作平台
+        - title: LintCode 炼码
+          url: https://www.lintcode.com/
+          description: 通过在线刷题的方式，提升编程能力斩获名企Offer
+        - title: C语言中文网 
+          url: http://c.biancheng.net/
+          description: C语言程序设计门户网站(入门教程、编程软件)
+
+    - term: 软件 / 硬件论坛
+      links: 
+        - title: 影子论坛
+          url: https://shadowq.com/index.html
+          description:
+        - title: 恩山无线论坛
+          url: https://www.right.com.cn/forum/forum.php
+          description: Powered by Discuz!
+        - title: 油猴中文网
+          url: https://bbs.tampermonkey.net.cn/
+          description: 油猴脚本分享交流的论坛
+
+
+    - term: 英文社区
+      links: 
+        - title: 麻省理工科技评论
+          url: https://www.mittrchina.com/news
+          description: 发现改变世界的新兴科技
+        - title: Insider
+          url: https://www.insider.com/asia
+          description: 
+        - title: Medium
+          url: https://medium.com/
+          description: Where good ideas find you.
+        - title: Reddit
+          url: https://www.reddit.com/
+          description: Dive into anything
+        - title: Quora
+          url: https://www.quora.com/?__pmsg__=+TVBtdXJsQkFfTzgxa2dGZU9nbXQ6YS5hcHAudmlldy5wbXNnLkFkZGl0aW9uYWxFbWFpbENvbmZpcm1hdGlvbkVycm9yOltbXSwge31d
+          description: 外国知乎
+        - title: The New York Times
+          url: https://www.nytimes.com/
+          description: Breaking News, US News, World News and Videos
+        - title: Top Medium Stories
+          url: https://topmediumstories.com/
+          description: 
+        - title: Towards Data Science
+          url: https://medium.com/towards-data-science
+          description: 
+    
+
+
+
+
+
+- taxonomy: 优质博客（待选）
   icon: linecons-mail
   links: 
     - title: 《交大生存手册》
@@ -341,95 +468,3 @@
     - title: topbook
       description: 高效生活视频书
       url: http://topbook.cc/
-
-
-
-
-
-
-
-- taxonomy: 论坛
-  icon: linecons-doc
-  list:
-    - term: 程序员社区
-      links: 
-        - title: Leetcode
-          url: https://leetcode.com/
-          description: 全球极客挚爱的技术成长平台
-        - title: Leetcode题库
-          url: https://leetcode-cn.com/problemset/all/
-          description: 
-        - title: 牛客网
-          url: https://www.nowcoder.com/
-          description: 找工作神器|笔试题库|面试经验|实习招聘内推
-        - title: 在线工具 —— OSCHINA.NET社区
-          url: https://tool.oschina.net/
-          description: 
-        - title: 掘金
-          url: https://juejin.cn/
-          description: 代码不止，掘金不停
-        - title: OSCHINA
-          url: https://www.oschina.net/
-          description: 中文开源技术交流社区
-        - title: PUDN
-          url: https://www.pudn.com/
-          description: 363万+编程源码资料
-        - title: CodeProject
-          url: https://www.codeproject.com/
-          description: For those who code
-        - title: 51CTO博客2.0
-          url: https://blog.51cto.com/
-          description: 原创IT技术文章分享及交流平台
-        - title: 博客园
-          url: https://www.cnblogs.com/
-          description: 开发者的网上家园
-        - title: 程序员客栈
-          url: https://www.proginn.com/
-          description: 领先的程序员自由远程工作平台
-        - title: LintCode 炼码
-          url: https://www.lintcode.com/
-          description: 通过在线刷题的方式，提升编程能力斩获名企Offer
-        - title: C语言中文网 
-          url: http://c.biancheng.net/
-          description: C语言程序设计门户网站(入门教程、编程软件)
-
-    - term: 软件 / 硬件论坛
-      links: 
-        - title: 影子论坛
-          url: https://shadowq.com/index.html
-          description:
-        - title: 恩山无线论坛
-          url: https://www.right.com.cn/forum/forum.php
-          description: Powered by Discuz!
-        - title: 油猴中文网
-          url: https://bbs.tampermonkey.net.cn/
-          description: 油猴脚本分享交流的论坛
-
-
-    - term: 英文社区
-      links: 
-        - title: 麻省理工科技评论
-          url: https://www.mittrchina.com/news
-          description: 发现改变世界的新兴科技
-        - title: Insider
-          url: https://www.insider.com/asia
-          description: 
-        - title: Medium
-          url: https://medium.com/
-          description: Where good ideas find you.
-        - title: Reddit
-          url: https://www.reddit.com/
-          description: Dive into anything
-        - title: Quora
-          url: https://www.quora.com/?__pmsg__=+TVBtdXJsQkFfTzgxa2dGZU9nbXQ6YS5hcHAudmlldy5wbXNnLkFkZGl0aW9uYWxFbWFpbENvbmZpcm1hdGlvbkVycm9yOltbXSwge31d
-          description: 外国知乎
-        - title: The New York Times
-          url: https://www.nytimes.com/
-          description: Breaking News, US News, World News and Videos
-        - title: Top Medium Stories
-          url: https://topmediumstories.com/
-          description: 
-        - title: Towards Data Science
-          url: https://medium.com/towards-data-science
-          description: 
-    
