@@ -5,19 +5,22 @@
       url: https://pokeai.cn/
       description: 重在思考
 
+    - title: GitHub Trending 日榜
+      url: https://github.com/trending?since=daily
+      description: 
+    - title: GitHub Trending 周榜
+      url: https://github.com/trending?since=weekly
+      description: 
     - title: GitHub 上有趣、入门级的开源项目
       url: https://hellogithub.com/
       description: 
+
     - title: Github top stars
       # logo: assets/images/logos/huaban.png
       url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
       description: 
-    - title: Github trending
-      # logo: assets/images/logos/huaban.png
-      url: https://github.com/trending/
-      description: 
+     
     - title: 极客分享 | 每周精选 
-      # logo: assets/images/logos/huaban.png
       url: https://hackershare.dev/weekly_selections
       description: 
     
@@ -37,7 +40,10 @@
   icon: linecons-star
   list:
     - term: 前辈
-      links:      
+      links:     
+        - title: 汇总
+          url: https://spass-game.de/gregarius/gregarius/
+          description:  
         - title: 酷壳
           url: https://coolshell.cn/
           description: 
@@ -49,17 +55,71 @@
           description: 
         - title: 阳志平
           url: https://www.yangzhiping.com/
-          description: 
+          description:
+        - title: 刘未鹏
+          url: http://mindhacks.cn/
+          description: 思维改变生活
+        - title: 韩天峰(Rango)的博客
+          url: https://rango.swoole.com/
+          description:
+        - title: 孔令贤
+          url: https://lingxiankong.github.io/2019-04-24-tired-with-open-source.html
+          description:
+
+
+
+        - title: Oldpan的个人博客
+          url: https://oldpan.me/
+          description:
+        - title: Oldpan的个人博客
+          url: https://oldpan.me/
+          description:
         
+
+    - term: 学习
+      links:
+        - title: Oldpan的个人博客
+          url: https://oldpan.me/
+          description: AI
+        - title: Jack Cui
+          url: https://cuijiahua.com/
+          description: 关注人工智能及互联网的个人网站
+         
+        - title: 吴师兄学算法
+          url: https://www.cxyxiaowu.com/
+          description: 
+        - title: AlgoMooc算法慕课网
+          url: https://www.algomooc.com/
+          description: 每道 LeetCode 算法题都有动画和图片
+
+        - title: 金老师的计算机技术自学网站
+          url: https://www.jinxuliang.com/home/index
+          description:
+
+        - title: 美团技术团队
+          url: https://tech.meituan.com/
+          description:
+
+        - title: Java 技术驿站
+          url: https://www.cmsblogs.com/
+          description:
+        - title: bugstack虫洞栈
+          url: https://bugstack.cn/
+          description:  Java
+
 
     - term: 极客
       links:
         - title: 三帛的世界
           url: https://blog.vvzero.com/
           description: 物联网全栈系统工程师
+        - title: 农码一生 - 博客园
+          url: https://www.cnblogs.com/zhaopei/
+          description: 物联网
         - title: Power`s Wiki
           url: https://wiki-power.com/
           description: 主要是看高效工作指南板块
+        
         - title: Helloxjn
           url: https://www.helloxjn.com/
           description: 网站全部自己开发，官方文档的收集很简洁
@@ -67,9 +127,9 @@
 
     - term: 有趣
       links:
-        # - title: DIYgod
-        #   url: https://diygod.me/
-        #   description:
+        - title: 纯洁的微笑
+          url: http://www.ityouknow.com/
+          description: 
         
         # - title: 翁天信
         #   url: https://www.dandyweng.com/
