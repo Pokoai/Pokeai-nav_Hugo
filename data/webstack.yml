@@ -33,6 +33,93 @@
 
 
 
+- taxonomy: 博客精华
+  icon: linecons-star
+  list:
+    - term: 前辈
+      links:      
+        - title: 酷壳
+          url: https://coolshell.cn/
+          description: 
+        - title: 阮一峰
+          url: http://www.ruanyifeng.com/
+          description: 
+        - title: 王垠
+          url: https://www.yinwang.org/
+          description: 
+        - title: 阳志平
+          url: https://www.yangzhiping.com/
+          description: 
+        
+
+    - term: 极客
+      links:
+        - title: 三帛的世界
+          url: https://blog.vvzero.com/
+          description: 物联网全栈系统工程师
+        - title: Power`s Wiki
+          url: https://wiki-power.com/
+          description: 主要是看高效工作指南板块
+        - title: Helloxjn
+          url: https://www.helloxjn.com/
+          description: 网站全部自己开发，官方文档的收集很简洁
+
+
+    - term: 有趣
+      links:
+        # - title: DIYgod
+        #   url: https://diygod.me/
+        #   description:
+        
+        # - title: 翁天信
+        #   url: https://www.dandyweng.com/
+        #   description: 一个自学者，爱好旅行、摄影、设计和编程
+        # - title: 罗磊
+        #   # logo: assets/images/logos/huaban.png
+        #   url: https://luolei.org/
+        #   description: 生活，我可以向他学习
+        # - title: 云游君的小站
+        #   # logo: assets/images/logos/pinterest.png
+        #   url: https://www.yunyoujun.cn/about/#/
+        #   description: 看看
+
+        - title: 编程随想的博客
+          url: https://program-think.blogspot.com/
+          description: 
+
+
+    - term: 看完即删
+      links:  
+        - title: 愧怍
+          # logo: assets/images/logos/zcool.png
+          url: https://kuizuo.cn/
+          description: 博客部分 36 篇文章看完，其他不用看
+        - title: 洋子的自留地
+          # logo: assets/images/logos/pinterest.png
+          url: https://purocean.github.io/
+          description: 兴趣相投，关注看看
+        - title: 胡达尔汗
+          # logo: assets/images/logos/huaban.png
+          url: https://hoodrh.top/
+          description: 搭建个人数字孤岛，我也有兴趣
+        - title: uxcaff-营销工具开发者
+          # logo: assets/images/logos/zcool.png
+          url: https://uxcaff.com/
+          description: 碎片化阅读、知识管理流程话题吸引了我，想再探索下
+        - title: 峰华-前端工程师
+          # logo: assets/images/logos/pinterest.png
+          url: https://zxuqian.cn/
+          description: 职业'专题可以看看
+        - title: Hael's Blog-英文博客
+          # logo: assets/images/logos/huaban.png
+          url: https://haelchan.me/
+          description: 感受英文博客魅力，提醒自己要搞定英文
+        - title: 方圆小站
+          url: https://fangyuanxiaozhan.com/blog/
+          description: 杂谈性质的文章
+
+
+
 
 
 - taxonomy: 在线学习
@@ -73,101 +160,6 @@
       description:
 
     
-     
-
-
-- taxonomy: 博客精华
-  icon: linecons-star
-  list:
-    - term: 前辈
-      links:      
-        - title: 酷壳
-          url: https://coolshell.cn/
-          description: 
-        - title: 阮一峰
-          url: http://www.ruanyifeng.com/
-          description: 
-        - title: 王垠
-          url: https://www.yinwang.org/
-          description: 
-        - title: 阳志平
-          url: https://www.yangzhiping.com/
-          description: 
-        
-
-
-
-    - term: 极客
-      links:
-
-        - title: 三帛的世界
-          url: https://blog.vvzero.com/
-          description: 物联网全栈系统工程师
-        - title: Power`s Wiki
-          url: https://wiki-power.com/
-          description: 主要是看高效工作指南板块
-        - title: Helloxjn
-          url: https://www.helloxjn.com/
-          description: 网站全部自己开发，官方文档的收集很简洁
-
-
-
-
-
-    - term: 有趣
-      links:
-        # - title: DIYgod
-        #   url: https://diygod.me/
-        #   description:
-        
-        # - title: 翁天信
-        #   url: https://www.dandyweng.com/
-        #   description: 一个自学者，爱好旅行、摄影、设计和编程
-        # - title: 罗磊
-        #   # logo: assets/images/logos/huaban.png
-        #   url: https://luolei.org/
-        #   description: 生活，我可以向他学习
-        # - title: 云游君的小站
-        #   # logo: assets/images/logos/pinterest.png
-        #   url: https://www.yunyoujun.cn/about/#/
-        #   description: 看看
-
-        - title: 编程随想的博客
-          url: https://program-think.blogspot.com/
-          description: 
-
-
-    - term: 看完即删
-      links:
-        
-        - title: 愧怍
-          # logo: assets/images/logos/zcool.png
-          url: https://kuizuo.cn/
-          description: 博客部分 36 篇文章看完，其他不用看
-        - title: 洋子的自留地
-          # logo: assets/images/logos/pinterest.png
-          url: https://purocean.github.io/
-          description: 兴趣相投，关注看看
-        - title: 胡达尔汗
-          # logo: assets/images/logos/huaban.png
-          url: https://hoodrh.top/
-          description: 搭建个人数字孤岛，我也有兴趣
-        - title: uxcaff-营销工具开发者
-          # logo: assets/images/logos/zcool.png
-          url: https://uxcaff.com/
-          description: 碎片化阅读、知识管理流程话题吸引了我，想再探索下
-        - title: 峰华-前端工程师
-          # logo: assets/images/logos/pinterest.png
-          url: https://zxuqian.cn/
-          description: 职业'专题可以看看
-        - title: Hael's Blog-英文博客
-          # logo: assets/images/logos/huaban.png
-          url: https://haelchan.me/
-          description: 感受英文博客魅力，提醒自己要搞定英文
-        - title: 方圆小站
-          url: https://fangyuanxiaozhan.com/blog/
-          description: 杂谈性质的文章
-
 
 
 
