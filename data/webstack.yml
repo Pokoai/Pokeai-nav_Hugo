@@ -29,53 +29,6 @@
     # - title: 投资系统学习 | 周末
     #   url: https://youzhiyouxing.cn/materials/
     #   description: 仅阅读一篇，思考输出☞网站理财专栏
-
-
-
-
-
-- taxonomy: 学术研究
-  icon: linecons-graduation-cap
-  list:
-    - term: 检索工具
-      links:  
-        - title: WOS
-          url: https://www.webofscience.com/wos/alldb/basic-search
-          description:  
-        - title: Scopus
-          url: https://www.scopus.com/search/form.uri?display=basic#basic
-          description:
-        - title: EI
-          url: https://www.engineeringvillage.com/search/quick.url
-          description:  
-        - title: 中国知网
-          url: https://www.cnki.net/
-          description: 
-        - title: 中国知网海外版
-          url: http://gb.oversea.cnki.net/kns55/default.aspx
-          description:  
-        - title: CNKI翻译助手
-          url: https://dict.cnki.net/index
-          description: 
-        - title: 万方
-          url: https://s.wanfangdata.com.cn/paper?q=%E8%B4%9D%E5%8F%B6%E6%96%AF
-          description:  
-
-
-    - term: 辅助工具
-      links:  
-        - title: Connectedpapers
-          url: https://www.connectedpapers.com/
-          description: 用来进行文献或者某个领域调研的科研神器
-        - title: Open Access Library
-          url: https://www.oalib.com/
-          description: 相关文章、期刊推荐
-        - title: AMiner
-          url: https://www.aminer.cn/
-          description: AI赋能科技情报挖掘
-        - title: 文献鸟Stork
-          url: https://www.storkapp.me/?ref=130097
-          description: 您忠实的科研助手
         
 
 
