@@ -65,15 +65,10 @@
         - title: 孔令贤
           url: https://lingxiankong.github.io/2019-04-24-tired-with-open-source.html
           description:
-
-
-
-        - title: Oldpan的个人博客
-          url: https://oldpan.me/
+        - title: 唐巧的博客
+          url: https://blog.devtang.com/
           description:
-        - title: Oldpan的个人博客
-          url: https://oldpan.me/
-          description:
+        
         
 
     - term: 学习
@@ -81,6 +76,9 @@
         - title: Oldpan的个人博客
           url: https://oldpan.me/
           description: AI
+        - title: 红色石头的个人博客
+          url: http://redstonewill.com/
+          description: 机器学习、深度学习之路
         - title: Jack Cui
           url: https://cuijiahua.com/
           description: 关注人工智能及互联网的个人网站
@@ -123,6 +121,9 @@
         - title: Helloxjn
           url: https://www.helloxjn.com/
           description: 网站全部自己开发，官方文档的收集很简洁
+        - title: 阿茶
+          url: https://teaper.dev/
+          description: 
 
 
     - term: 有趣
