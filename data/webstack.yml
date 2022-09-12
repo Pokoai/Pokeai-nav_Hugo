@@ -1,41 +1,3 @@
-- taxonomy: Click Day
-  icon: linecons-key
-  links:  
-    - title: 网站笔记回顾 | 早上
-      url: https://pokeai.cn/
-      description: 重在思考
-
-    - title: GitHub Trending 日榜
-      url: https://github.com/trending?since=daily
-      description: 
-    - title: GitHub Trending 周榜
-      url: https://github.com/trending?since=weekly
-      description: 
-    - title: GitHub 上有趣、入门级的开源项目
-      url: https://hellogithub.com/
-      description: 
-
-    - title: Github top stars
-      # logo: assets/images/logos/huaban.png
-      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-      description: 
-     
-    - title: 极客分享 | 每周精选 
-      url: https://hackershare.dev/weekly_selections
-      description: 
-    
-    
-    # - title: 前沿资讯 | 周末
-    #   url: https://www.inoreader.com/all_articles/
-    #   description: 浏览标题，筛选内容供后续阅读
-    
-    # - title: 投资系统学习 | 周末
-    #   url: https://youzhiyouxing.cn/materials/
-    #   description: 仅阅读一篇，思考输出☞网站理财专栏
-        
-
-
-
 - taxonomy: 博客精华
   icon: linecons-star
   list:
@@ -67,6 +29,9 @@
           description:
         - title: 唐巧的博客
           url: https://blog.devtang.com/
+          description:
+        - title: 陆游弃
+          url: https://books.nexmoe.com/
           description:
         
         
@@ -221,6 +186,39 @@
       description:
 
     
+
+
+
+- taxonomy: Click Daily
+  icon: linecons-key
+  links:  
+    - title: 网站笔记回顾 | 早上
+      url: https://pokeai.cn/
+      description: 重在思考
+
+    - title: GitHub Trending 日榜
+      url: https://github.com/trending?since=daily
+      description: 
+    - title: GitHub Trending 周榜
+      url: https://github.com/trending?since=weekly
+      description: 
+    - title: GitHub 上有趣、入门级的开源项目
+      url: https://hellogithub.com/
+      description: 
+
+    - title: Github top stars
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+      description: 
+     
+    - title: 极客分享 | 每周精选 
+      url: https://hackershare.dev/weekly_selections
+      description: 
+    
+    - title: Panda
+      url: https://app.usepanda.com/#/
+      description: 
+
 
 
 
