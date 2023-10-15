@@ -1,4 +1,375 @@
-- taxonomy: 博客精华
+- taxonomy: 学术研究
+  icon: linecons-graduation-cap
+  list:
+    - term: 文献检索
+      links:  
+        - title: WOS
+          url: https://www.webofscience.com/wos/alldb/basic-search
+          description:  
+        - title: Scopus
+          url: https://www.scopus.com/search/form.uri?display=basic#basic
+          description:
+        - title: EI
+          url: https://www.engineeringvillage.com/search/quick.url
+          description:  
+        - title: 中国知网
+          url: https://www.cnki.net/
+          description: 
+        - title: 中国知网海外版
+          url: http://gb.oversea.cnki.net/kns55/default.aspx
+          description:  
+        - title: CNKI翻译助手
+          url: https://dict.cnki.net/index
+          description: 
+        - title: 万方
+          url: https://s.wanfangdata.com.cn/paper?q=%E8%B4%9D%E5%8F%B6%E6%96%AF
+          description:  
+
+
+    - term: 文献调研
+      links:  
+        - title: Connectedpapers
+          url: https://www.connectedpapers.com/
+          description: 用来进行文献或者某个领域调研的科研神器
+        - title: Open Access Library
+          url: https://www.oalib.com/
+          description: 相关文章、期刊推荐
+        - title: Search Publications
+          url: https://www.researchgate.net/search/publication?q=
+          description: ResearchGate
+          
+        - title: AMiner
+          url: https://www.aminer.cn/
+          description: AI赋能科技情报挖掘
+        - title: 文献鸟Stork
+          url: https://www.storkapp.me/?ref=130097
+          description: 您忠实的科研助手
+
+
+
+
+
+- taxonomy: 官方文档
+  icon: linecons-doc
+  list:
+    - term: 开源
+      links: 
+        - title: Google 开源项目风格指南
+          url: https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/
+          description: 代码规范手册
+
+    - term: 编程语言
+      links:
+        - title: C++
+          url: https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5
+          description: cppreference
+        - title: Python
+          url: https://docs.python.org/3.10/search.html
+          description: Python 3.10.1 
+        - title: Java
+          url: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+          description: Java SE 11 & JDK 11
+        
+        - title: Markdown 手册
+          url: http://itmyhome.com/markdown/index.html
+          description: 
+               
+    - term: 数据分析
+      links:
+      - title: NumPy v1.19 Manual
+        url: https://numpy.org/doc/stable/search.html?q=argsort&check_keywords=yes&area=default
+        description:
+      - title: NumPy 中文网
+        url: https://www.numpy.org.cn/
+        description: 
+      - title: SciPy v1.5.4
+        url: https://docs.scipy.org/doc/scipy/reference/
+        description:
+      - title: Pandas 中文网
+        url: https://www.pypandas.cn/
+        description: 
+      - title: Matplotlib 3.5.1
+        url: https://matplotlib.org/stable/
+        description: 
+      - title: Matplotlib 中文网
+        url: https://www.matplotlib.org.cn/
+        description:
+      - title: Examples — Matplotlib3.5.1
+        url: https://matplotlib.org/stable/gallery/index.html
+        description: 
+      - title: 等高线演示-Matplotlib
+        url: https://www.matplotlib.org.cn/gallery/images_contours_and_fields/contour_demo.html
+        description: 
+      - title: Pillow
+        url: https://pillow.readthedocs.io/en/stable/reference/Image.html#
+        description: 
+
+
+
+
+
+- taxonomy: 在线学习
+  icon: linecons-graduation-cap
+  links: 
+    - title: 北大信科 CS 自学指南
+      url: https://github.com/PKUFlyingPig/cs-self-learning
+      description: 凭借开源社区的优质资源，在2-3年内成长为有扎实的数学功底和代码能力
+    - title: CS 自学指南在线书籍
+      url: https://csdiy.wiki/
+      description: 
+
+    - title: 机器学习初学者
+      url: https://github.com/fengdu78/machine_learning_beginner
+      description: 学完这些文章学完以后，就基本入门了。
+    
+    - title: 现代魔法学院
+      url: www.nowamagic.net/academy/
+      description: 学习是为了探索这个世界的本质
+    
+    - title: 极客教程
+      url: https://geek-docs.com
+      description: 打磨精品教程
+       
+    - title: 自我成长
+      url: https://www.edx.org/learn/business-administration
+      description: 
+
+    - title: R数据分析指南与速查手册
+      url: https://bookdown.org/xiao/RAnalysisBook/
+      description: 
+    - title: R语言入门，给一心只有学习的你
+      url: https://bookdown.org/qiyuandong/intro_r/
+      description: 
+
+    - title: LaTeX科技排版工作室
+      url: https://www.latexstudio.net/articles/
+      description:
+      
+      
+
+
+
+- taxonomy: 在线工具
+  icon: linecons-doc
+  list:
+    - term: 开发
+      links:
+        - title: 正则表达式在线测试
+          url: https://tool.chinaz.com/regex
+          description: 
+        
+        - title: asciiflow
+          description: 使用字符来绘画，代码注释用
+          url: http://asciiflow.com/
+
+        - title: GTmetrix
+          description: 网站加载速度测试
+          url: https://gtmetrix.com/
+       
+        - title: NSEC lab
+          description: 定位 IP，分析是否为机器人
+          url: https://ip.rtbasia.com/
+
+    - term: 办公
+      links:
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          description: 文档传输
+        - title: 文叔叔
+          url: https://www.wenshushu.cn/
+          description: 文档传输
+
+        - title: Convertio
+          description: 多种媒体文件格式转换器
+          url: https://convertio.co/zh/
+        - title: ALLDOCS
+          description: 在线任意格式转换
+          url: https://alldocs.app/
+        - title: ALLDOCS
+          description: 在线格式转换
+          url: https://cn.office-converter.com/
+          
+        - title: I Love PDF
+          description: PDF 爱好者的在线工具
+          url: http://www.ilovepdf.com/zh_cn
+
+        - title: 在线Ps
+          url: https://ps.gaoding.com/#/
+          description: 
+
+        - title: Drawio
+          url: https://www.drawio.com/
+          description: 流程图制作
+          
+        - title: ProcessOn
+          url: https://www.processon.com/
+          description: 在线作图
+
+        - title: Aspose
+          url: https://products.aspose.app/imaging/zh-hans/image-view/jpg
+          description: 在线查看手机长截图
+
+        - title: 幕布
+          description: 梳理文章结构大纲
+          url: https://mubu.com/app
+        - title: markmap
+          description: 在线使用 markdown 绘制思维导图
+          url: https://markmap.js.org/repl
+
+        - title: Gridzzly
+          description: 在线生成格点纸
+          url: http://gridzzly.com/
+
+
+    - term: 生活
+      links:
+        - title: 杭州本地宝
+          url: http://hz.bendibao.com/
+          description: 
+        - title: AirDroid
+          url: https://web.airdroid.com/
+          description: 手机远程操控
+        - title: 在线工具箱
+          url: http://www.atoolbox.net/Category.php?Id=31
+          description: 
+          
+          
+    - term: 数学
+      links:
+        - title: LaTeX 公式编辑器
+          description: 在线编辑 LaTeX
+          url: https://www.latexlive.com/##
+        - title: Math Webdemo
+          description: 手写数学公式识别
+          url: https://webdemo.myscript.com/views/math/index.html
+        - title: GeoGebra
+          description: 在线数学软件（运算、绘图等）
+          url: https://www.geogebra.org/
+    
+    
+    - term: 简历
+      links:
+        - title: Markdown 简历
+          description: 在线简历编辑，推荐阅读项目的 README
+          url: https://resume.mdnice.com/
+        - title: 超级简历
+          description: 在线生成简历
+          url: https://www.wondercv.com/
+        - title: 冷熊简历
+          description: 在线生成 Markdown 简历
+          url: http://cv.ftqq.com/?fr=github#
+        - title: Resumd
+          description: 在线生成 Markdown 简历
+          url: https://resumd.t9t.io/
+
+
+    - term: 打字练习
+      links: 
+        - title: 方法论
+          url: 
+          description: 
+        - title: Typing.com
+          url: https://www.typing.com/
+          description: 有意思的打字闯关
+        - title: Keybr
+          url: https://www.keybr.com/
+          description: 记录每个按键的打字速度，生成适合你的练习内容
+
+        - title: 10 FastFingers
+          logo: assets/images/logos/leiphone.png
+          url: https://10fastfingers.com/typing-test/english
+          description: 常见单词练习
+        - title: 91 小键人
+          url: https://dazi.91xjr.com/typing/train/letter.html
+          description: 字母键练习
+        - title: TypingClub
+          url: https://www.edclub.com/sportal/
+          description: 打字闯关
+
+        - title: TypingTest
+          url: https://www.typingtest.com/
+          description: 测试打字速度
+
+    - term: 其他
+      links:
+        - title: Google Trends
+          description: 了解关键词的流行趋势
+          url: https://trends.google.com.sg/trends/?geo=CN
+
+        - title: FC 游戏在线玩
+          description: 在线玩各种经典游戏
+          url: http://lab.mkblog.cn/FCGames/#/
+
+        - title: 医学微视
+          url: https://www.mvyxws.com/
+          description: 
+
+    - term: 接码平台
+      links:
+        - title: Generate awesome Javascript project names
+          description: 随机取名器
+          url: http://mrsharpoblunto.github.io/foswig.js/
+        - title: RECEIVE SMS ONLINE
+          description: 美国假身份生成
+          url: https://www.fakenamegenerator.com/gen-male-us-us.php
+        - title: RECEIVE SMS ONLINE
+          description: 接码平台
+          url: https://www.receivesmsonline.net/
+        - title: 在线接收短信
+          description: 接码平台
+          url: https://ch.freephonenum.com/
+        - title: My Trash Mobile
+          description: 接码平台
+          url: https://zh.mytrashmobile.com/
+        - title: 超级云短信
+          description: 接码平台
+          url: https://www.bfkdim.com/?lang=cn
+        - title: 在线短信接收 - 接码号
+          description: 接码平台
+          url: https://jiemahao.com/
+        - title: 在线短信接收 
+          description: 接码平台
+          url: https://www.materialtools.com/?page=1
+        - title: 临时邮箱
+          url: https://temp-mail.org/zh/
+          description: 
+
+
+
+
+
+
+- taxonomy: 每日关注
+  icon: linecons-key
+  links:  
+    - title: GitHub Trending 日榜
+      url: https://github.com/trending?since=daily
+      description: 
+    - title: GitHub Trending 周榜
+      url: https://github.com/trending?since=weekly
+      description: 
+    - title: GitHub 上有趣、入门级的开源项目
+      url: https://hellogithub.com/
+      description: 
+
+    - title: Github top stars
+      # logo: assets/images/logos/huaban.png
+      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
+      description: 
+     
+    - title: 极客分享 | 每周精选 
+      url: https://hackershare.dev/weekly_selections
+      description: 
+    
+    - title: Panda
+      url: https://app.usepanda.com/#/
+      description: 
+
+
+
+
+
+- taxonomy: 博客阅读
   icon: linecons-star
   list:
     - term: 前辈
@@ -148,81 +519,6 @@
 
 
 
-- taxonomy: 在线学习
-  icon: linecons-graduation-cap
-  links: 
-    - title: 北大信科 CS 自学指南
-      url: https://github.com/PKUFlyingPig/cs-self-learning
-      description: 凭借开源社区的优质资源，在2-3年内成长为有扎实的数学功底和代码能力
-    - title: CS 自学指南在线书籍
-      url: https://csdiy.wiki/
-      description: 
-
-    - title: 机器学习初学者
-      url: https://github.com/fengdu78/machine_learning_beginner
-      description: 学完这些文章学完以后，就基本入门了。
-    
-    - title: 现代魔法学院
-      url: www.nowamagic.net/academy/
-      description: 学习是为了探索这个世界的本质
-    
-    - title: 极客教程
-      url: https://geek-docs.com
-      description: 打磨精品教程
-       
-    - title: 自我成长
-      url: https://www.edx.org/learn/business-administration
-      description: 
-
-    - title: R数据分析指南与速查手册
-      url: https://bookdown.org/xiao/RAnalysisBook/
-      description: 
-    - title: R语言入门，给一心只有学习的你
-      url: https://bookdown.org/qiyuandong/intro_r/
-      description: 
-
-    - title: LaTeX科技排版工作室
-      url: https://www.latexstudio.net/articles/
-      description:
-
-    
-
-
-
-- taxonomy: Click Daily
-  icon: linecons-key
-  links:  
-    - title: 网站笔记回顾 | 早上
-      url: https://pokeai.cn/
-      description: 重在思考
-
-    - title: GitHub Trending 日榜
-      url: https://github.com/trending?since=daily
-      description: 
-    - title: GitHub Trending 周榜
-      url: https://github.com/trending?since=weekly
-      description: 
-    - title: GitHub 上有趣、入门级的开源项目
-      url: https://hellogithub.com/
-      description: 
-
-    - title: Github top stars
-      # logo: assets/images/logos/huaban.png
-      url: https://github.com/search?q=stars:>1&s=stars&type=Repositories
-      description: 
-     
-    - title: 极客分享 | 每周精选 
-      url: https://hackershare.dev/weekly_selections
-      description: 
-    
-    - title: Panda
-      url: https://app.usepanda.com/#/
-      description: 
-
-
-
-
-
 - taxonomy: 论坛
   icon: linecons-doc
   list:
@@ -311,164 +607,3 @@
 
 
 
-
-
-- taxonomy: 优质博客（待选）
-  icon: linecons-mail
-  links: 
-    - title: 《交大生存手册》
-      description: 我们能从大学教育里获得什么？
-      url: https://survivesjtu.gitbook.io/survivesjtumanual/
-    - title: AresX's Blog
-      description: wubba lubba dub dub.
-      url: https://ares-x.com/
-    - title: 城中村群租房
-      description: 一些写得不错的文章
-      url: https://www.darmau.com/
-    - title: read and go
-      description: 一些启发性的随想
-      url: https://unee.wang/
-    - title: 小土刀 2.0
-      description: 一些启发性的随想
-      url: https://wdxtub.com/
-    - title: FROYO's Blog
-      description: 把握现在，拥抱未来
-      url: http://www.izhuyue.com/
-    - title: 李笑来作品集
-      description: 人生的尴尬在于之前决策的时候并不可能有之后那么丰富的经验……
-      url: http://lixiaolai.com/
-    - title: Peng Gu
-      description: Live with less. Share with more.
-      url: https://medium.com/@peng/latest
-    - title: 土木坛子
-      description: 和光同尘，与时舒卷
-      url: https://tumutanzi.com/
-    - title: 技术笔记 - 阳志平的网志
-      description: 致力于认知科学的产品开发、课程设计与科学传播。
-      url: http://www.yangzhiping.com/tech/
-    - title: Jason
-      description: 很有意思的每日随想
-      url: https://atjason.com/
-    - title: 不如
-      description: 码农，程序猿，未来的昏析狮
-      url: http://ibruce.info/
-    - title: 达夕博客
-      description: 关注工作效率/提高生产力/数字化工作/优秀软件
-      url: https://www.daxiblog.com/
-    - title: MADE(by)FRUTOS
-      description: 一些与 Arduino 相关的个人作品
-      url: https://madebyfrutos.wordpress.com/
-    - title: 0miker0's Blog
-      description: Arduino and various other projects
-      url: https://0miker0.wordpress.com/
-    - title: ARuFa の日記
-      description: 脑洞奇大的 DIY 博主
-      url: http://arufa.hatenablog.jp/
-    - title: 稚晖的个人站
-      description: 十年饮冰，难凉热血
-      url: http://pengzhihui.xyz/
-    - title: cevinius
-      description: MobBob 机器人的作者
-      url: https://www.cevinius.com/
-    - title: Do U Find IT?
-      description: 一个有意思的嵌入式博主
-      url: http://www.chaosgoo.com/
-    - title: 小木・年轮
-      description: 一个有趣的技术博客
-      url: http://caiyao.name/
-    - title: 萨摩的部落格
-      description: 掉毛中……
-      url: https://i-meto.com/
-    - title: reuixiy
-      description: 一个技术博客
-      url: https://io-oi.me/
-    - title: Moorez
-      description: 一个技术博客
-      url: http://shenzekun.cn/
-    - title: ookamiAntD's Blog
-      description: Easy codingeasy life.
-      url: https://yangbingdong.com/
-    - title: IT草根
-      description: 有意思的随想
-      url: http://codepub.cn/
-    - title: 无垠
-      description: 飞翔的天空无限大
-      url: https://img.flyhigher.top/wp-content/uploads/2017/01/cropped-touch-1.png?imageView2/1/w/64/h/64/interlace/1/q/90#
-    - title: 木木木木木
-      description: 有意思的技术博客
-      url: https://immmmm.com/
-    - title: Colmugx's Blog
-      description: 让一切充满想象力
-      url: https://colmugx.github.io/blog/
-    - title: 始终
-      description: 不忘初心
-      url: https://liam.page/
-    - title: 裂帛碎玉的想法
-      description: 有意思的技术博客
-      url: https://blog.vvzero.com/
-    - title: MAYBEIWILL
-      description: 有意思的随想
-      url: https://maybeiwill.me/
-    - title: 也而的博客
-      description: 在天涯和海角 放石头和葡萄
-      url: https://zoomyale.com/
-    - title: Spencer's Blog
-      description: 阿巴阿巴 o ((>ω<)) o
-      url: https://blog.spencerwoo.com/
-    - title: JeeH
-      description: Headers for framework- and platform-agnostic code
-      url: https://jeelabs.org/projects/jeeh/
-    - title: LT
-      description: Revolutionary Road
-      url: http://blog.davidrobot.com/
-    - title: 林海草原
-      description: 一些有意思的随想
-      url: https://lhcy.org/
-    - title: 何世友的日志
-      description: 一些有意思的杂谈
-      url: https://ernest.me/
-    - title: Matrix67
-      description: 有趣的数学知识
-      url: http://www.matrix67.com/blog/
-    - title: Ja50n - go ahead
-      description: 想什么呢，一直往前走
-      url: https://blog.ulinkmega.com/
-    - title: Liaoyuqin
-      description: Write drunk edit sober. I am a lovely pirate.
-      url: https://www.liaoyuqin.com/
-    - title: 周良粥凉
-      description: 有意思的随想
-      url: https://ericec.cn/
-    - title: 从良未遂
-      description: 有事就做事，没事叼根烟
-      url: https://www.ithmz.com/
-    - title: INFORX
-      description: 技术博客
-      url: https://inforscan.com/
-    - title: MacTalk-池建强的随想录
-      description: 关注技术和人文
-      url: http://macshuo.com/
-    - title: 千橙工坊
-      description: 做有温度的金融科技
-      url: https://www.qiancheng.me/
-    - title: 掘墓人的小铲子
-      description: 有意思的科技文
-      url: https://juemuren4449.com/
-    - title: 咖啡入门书
-      description: 系统了解咖啡的相关知识
-      url: https://kaix.in/0001/primer-of-coffee/
-    - title: BETTYPLEX
-      description: Life is full of regrets
-      url: https://forbetty.com/
-    - title: Lazy Blog
-      description: 不想当厨子的司机不是好码农
-      url: https://www.weichao.ren/
-    - title: Ton's Blog
-      description: 一个存放笔记的小盒子
-      url: https://ton.tn/
-    - title: cdxy.me
-      description: Cyber Security / Data Science / Trading
-      url: https://www.cdxy.me/
-    - title: topbook
-      description: 高效生活视频书
-      url: http://topbook.cc/
